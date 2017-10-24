@@ -17,6 +17,6 @@ int main()
 	vector<int> vs;
 	for(int i=0;i<n;i++);
 		vs.push_back(i);
-	random_shuffle(vs.begin(),vs.end()); //¥´¶Ãvector 
+	random_shuffle(vs.begin(),vs.end());  
 	return 0;
  } 
